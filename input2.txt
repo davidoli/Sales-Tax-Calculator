@@ -1,0 +1,2 @@
+1,imported box of chocolates,imported,10.00,FOOD
+1,imported bottle of perfume,imported,47.50,MISC

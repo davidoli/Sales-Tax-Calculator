@@ -1,0 +1,3 @@
+1,book,not imported,12.49,BOOK
+1,music CD,not imported,14.99,MISC
+1,chocolate bar,not imported,0.85,FOOD

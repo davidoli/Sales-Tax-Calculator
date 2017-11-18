@@ -1,8 +1,0 @@
-com/sales/basket/Item$Type.class
-com/sales/receipt/Receipt.class
-com/sales/receipt/PurchasedItem.class
-com/sales/calculator/TaxCalculator.class
-com/sales/Main.class
-com/sales/calculator/BillingCalculator.class
-com/sales/basket/Item.class
-com/sales/basket/Basket.class

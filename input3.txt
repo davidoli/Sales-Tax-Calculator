@@ -1,4 +1,4 @@
 1,imported bottle of perfume,imported,27.99,MISC
 1,bottle of perfume,not imported,18.99,MISC
 1,packet of headache pills,not imported,9.75,MEDICAL
-1,imported box of chocolates,imported,11.25
+1,imported box of chocolates,imported,11.25,FOOD

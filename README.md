@@ -26,4 +26,4 @@ Sales Taxes: 6.70
 Total: 74.68
 ```
 
-- One can also run the script.sh file, which executes the program with above example (input3.txt in same directory).
+- One can also run the run.sh file, which executes the program with above example (input3.txt in same directory).

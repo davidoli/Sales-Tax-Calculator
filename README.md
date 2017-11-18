@@ -1,9 +1,9 @@
-#Sales Tax Calculator
+# Sales Tax Calculator
 ======================
 This simple Java program takes in a basket of items,
 calculates the total tax and cost of the batch, and prints a receipt.
 
-#How to Use
+### How to Use
 To run this simple Java Program in Terminal:
 - first compile the program using "mvn clean package" in the project directory.
 - This produces two jar files.

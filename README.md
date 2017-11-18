@@ -27,3 +27,9 @@ Total: 74.68
 ```
 
 - One can also run the run.sh file, which executes the program with above example (input3.txt in same directory).
+
+### To Run Unit Tests
+run "mvn test" in Terminal.  Tests should output:
+```
+Tests run: 5, Failures: 0, Errors: 0, Skipped: 0
+```

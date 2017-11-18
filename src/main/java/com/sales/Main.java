@@ -14,11 +14,6 @@ import com.sales.calculator.*;
 import com.sales.basket.*;
 import com.sales.receipt.*;
 
-//class InvalidListException extends Exception {
-//    InvalidListException() {}
-//    InvalidListException(String str) {super(str);
-//    }
-//}
 
 public class Main {
 
@@ -36,7 +31,7 @@ public class Main {
         try {
             sc = new Scanner(input);
         } catch (FileNotFoundException e) {
-            logger.error("Non-existent File");
+            logger.error("File not Found!");
         }
 
         BillingCalculator billing = new BillingCalculator(new TaxCalculator());
